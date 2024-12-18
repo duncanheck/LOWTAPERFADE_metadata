@@ -1,7 +1,7 @@
 {
   "name": "LOWTAPERFADE",
   "symbol": "LTF",
-  "uri": "https://raw.githubusercontent.com/duncanheck/LOWTAPERFADE_metadata/main/lowtaperfade.jpg",
+  "uri": "https://raw.githubusercontent.com/duncanheck/LOWTAPERFADE_metadata/main/assets/lowtaper.jpg",
   "sellerFeeBasisPoints": 0,
   "creators": [
     {
@@ -11,3 +11,4 @@
     }
   ]
 }
+
